@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+.cmake/
+.idea/
+.ninja_deps
+.ninja_log
+ATM-Client
+CMakeCache.txt
+CMakeFiles/
+Testing/
+build.ninja
+build/
+cmake_install.cmake
